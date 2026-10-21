@@ -1,0 +1,503 @@
+{
+	"textures": [
+		{
+			"image": "deko_japan.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1658,
+				"h": 2035
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_japan_tree_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 618,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 618,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 618,
+						"h": 600
+					}
+				},
+				{
+					"filename": "deko_japan_tree_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 572,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 572,
+						"h": 560
+					},
+					"frame": {
+						"x": 1,
+						"y": 603,
+						"w": 572,
+						"h": 560
+					}
+				},
+				{
+					"filename": "deko_japan_tree_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 604,
+						"h": 463
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 604,
+						"h": 463
+					},
+					"frame": {
+						"x": 621,
+						"y": 1,
+						"w": 604,
+						"h": 463
+					}
+				},
+				{
+					"filename": "deko_japan_arch_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 489,
+						"h": 495
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 489,
+						"h": 495
+					},
+					"frame": {
+						"x": 1,
+						"y": 1165,
+						"w": 489,
+						"h": 495
+					}
+				},
+				{
+					"filename": "deko_japan_arch_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 386,
+						"h": 372
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 386,
+						"h": 372
+					},
+					"frame": {
+						"x": 1,
+						"y": 1662,
+						"w": 386,
+						"h": 372
+					}
+				},
+				{
+					"filename": "deko_japan_house_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 430,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 430,
+						"h": 482
+					},
+					"frame": {
+						"x": 1227,
+						"y": 1,
+						"w": 430,
+						"h": 482
+					}
+				},
+				{
+					"filename": "deko_japan_arch_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 514,
+						"h": 470
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 514,
+						"h": 470
+					},
+					"frame": {
+						"x": 621,
+						"y": 466,
+						"w": 514,
+						"h": 470
+					}
+				},
+				{
+					"filename": "deko_japan_item_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 382,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 382,
+						"h": 400
+					},
+					"frame": {
+						"x": 1137,
+						"y": 485,
+						"w": 382,
+						"h": 400
+					}
+				},
+				{
+					"filename": "deko_japan_tree_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 382,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 382,
+						"h": 399
+					},
+					"frame": {
+						"x": 575,
+						"y": 938,
+						"w": 382,
+						"h": 399
+					}
+				},
+				{
+					"filename": "deko_japan_house_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 350
+					},
+					"frame": {
+						"x": 492,
+						"y": 1339,
+						"w": 372,
+						"h": 350
+					}
+				},
+				{
+					"filename": "deko_japan_house_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 344,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 344,
+						"h": 400
+					},
+					"frame": {
+						"x": 959,
+						"y": 938,
+						"w": 344,
+						"h": 400
+					}
+				},
+				{
+					"filename": "deko_japan_tree_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 298,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 450
+					},
+					"frame": {
+						"x": 1305,
+						"y": 887,
+						"w": 298,
+						"h": 450
+					}
+				},
+				{
+					"filename": "deko_japan_tree_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 356,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 356,
+						"h": 350
+					},
+					"frame": {
+						"x": 866,
+						"y": 1340,
+						"w": 356,
+						"h": 350
+					}
+				},
+				{
+					"filename": "deko_japan_house_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 335,
+						"h": 334
+					},
+					"frame": {
+						"x": 389,
+						"y": 1691,
+						"w": 335,
+						"h": 334
+					}
+				},
+				{
+					"filename": "deko_japan_house_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 362
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 362
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1340,
+						"w": 299,
+						"h": 362
+					}
+				},
+				{
+					"filename": "deko_japan_item_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 343,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 343,
+						"h": 220
+					},
+					"frame": {
+						"x": 726,
+						"y": 1692,
+						"w": 343,
+						"h": 220
+					}
+				},
+				{
+					"filename": "deko_japan_streetlight_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 121,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 2,
+						"w": 73,
+						"h": 348
+					},
+					"frame": {
+						"x": 1521,
+						"y": 485,
+						"w": 73,
+						"h": 348
+					}
+				},
+				{
+					"filename": "deko_japan_streetlight_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 121,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 2,
+						"w": 68,
+						"h": 348
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1339,
+						"w": 68,
+						"h": 348
+					}
+				},
+				{
+					"filename": "deko_japan_lamp_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 186
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 8,
+						"w": 80,
+						"h": 171
+					},
+					"frame": {
+						"x": 492,
+						"y": 1165,
+						"w": 80,
+						"h": 171
+					}
+				},
+				{
+					"filename": "deko_japan_bush_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 203,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 203,
+						"h": 200
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1704,
+						"w": 203,
+						"h": 200
+					}
+				},
+				{
+					"filename": "deko_japan_item_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 150
+					},
+					"frame": {
+						"x": 1276,
+						"y": 1704,
+						"w": 168,
+						"h": 150
+					}
+				},
+				{
+					"filename": "deko_japan_lamp_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 91,
+						"h": 144
+					},
+					"frame": {
+						"x": 1446,
+						"y": 1704,
+						"w": 91,
+						"h": 144
+					}
+				},
+				{
+					"filename": "deko_japan_lamp_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 92,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 17,
+						"w": 55,
+						"h": 136
+					},
+					"frame": {
+						"x": 1596,
+						"y": 485,
+						"w": 55,
+						"h": 136
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:371824d576fa79507ed34c01950d838c:613bbb3a517e010f1b73757edf0eaa01:e53a0667a1a1a05fd64c382a97970f0e$"
+	}
+}

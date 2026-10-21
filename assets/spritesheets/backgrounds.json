@@ -1,0 +1,431 @@
+{
+	"textures": [
+		{
+			"image": "backgrounds-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1922,
+				"h": 1832
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "desert_sky",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 720
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1920,
+						"h": 720
+					}
+				},
+				{
+					"filename": "japan_mid",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 63,
+						"w": 1920,
+						"h": 558
+					},
+					"frame": {
+						"x": 1,
+						"y": 723,
+						"w": 1920,
+						"h": 558
+					}
+				},
+				{
+					"filename": "night_sky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 548
+					},
+					"frame": {
+						"x": 1,
+						"y": 1283,
+						"w": 1920,
+						"h": 548
+					}
+				}
+			]
+		},
+		{
+			"image": "backgrounds-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1922,
+				"h": 1958
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water1_bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 176,
+						"w": 1920,
+						"h": 544
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1920,
+						"h": 544
+					}
+				},
+				{
+					"filename": "night_bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 187,
+						"w": 1920,
+						"h": 533
+					},
+					"frame": {
+						"x": 1,
+						"y": 547,
+						"w": 1920,
+						"h": 533
+					}
+				},
+				{
+					"filename": "ice_bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 278,
+						"w": 1920,
+						"h": 442
+					},
+					"frame": {
+						"x": 1,
+						"y": 1082,
+						"w": 1920,
+						"h": 442
+					}
+				},
+				{
+					"filename": "city_mid",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1526,
+						"w": 1920,
+						"h": 431
+					}
+				}
+			]
+		},
+		{
+			"image": "backgrounds-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1922,
+				"h": 2028
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "night_mid",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 123,
+						"w": 1920,
+						"h": 428
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1920,
+						"h": 428
+					}
+				},
+				{
+					"filename": "ice_sky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 431,
+						"w": 1920,
+						"h": 420
+					}
+				},
+				{
+					"filename": "desert_bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 305,
+						"w": 1920,
+						"h": 415
+					},
+					"frame": {
+						"x": 1,
+						"y": 853,
+						"w": 1920,
+						"h": 415
+					}
+				},
+				{
+					"filename": "water1_sky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 1270,
+						"w": 1920,
+						"h": 384
+					}
+				},
+				{
+					"filename": "city_bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 349,
+						"w": 1920,
+						"h": 371
+					},
+					"frame": {
+						"x": 1,
+						"y": 1656,
+						"w": 1920,
+						"h": 371
+					}
+				}
+			]
+		},
+		{
+			"image": "backgrounds-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1922,
+				"h": 1953
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "desert_mid",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 203,
+						"w": 1920,
+						"h": 370
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1920,
+						"h": 370
+					}
+				},
+				{
+					"filename": "city_sky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 361
+					},
+					"frame": {
+						"x": 1,
+						"y": 373,
+						"w": 1920,
+						"h": 361
+					}
+				},
+				{
+					"filename": "water1_mid",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 199,
+						"w": 1920,
+						"h": 341
+					},
+					"frame": {
+						"x": 1,
+						"y": 736,
+						"w": 1920,
+						"h": 341
+					}
+				},
+				{
+					"filename": "japan_sky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 328
+					},
+					"frame": {
+						"x": 1,
+						"y": 1079,
+						"w": 1920,
+						"h": 328
+					}
+				},
+				{
+					"filename": "japan_bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 414,
+						"w": 1920,
+						"h": 306
+					},
+					"frame": {
+						"x": 1,
+						"y": 1409,
+						"w": 1920,
+						"h": 306
+					}
+				},
+				{
+					"filename": "ice_mid",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 217,
+						"w": 1920,
+						"h": 235
+					},
+					"frame": {
+						"x": 1,
+						"y": 1717,
+						"w": 1920,
+						"h": 235
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b9d37e060f8acaf43a6aad6de10ca8ca:a79ebf75487e2bc90de792e892721105:ec8b044109e3a2bb1427a46926802e23$"
+	}
+}

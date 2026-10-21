@@ -1,0 +1,336 @@
+{
+	"textures": [
+		{
+			"image": "tunnels-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1880,
+				"h": 2030
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_tunnel_common_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1895,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1878,
+						"h": 537
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1878,
+						"h": 537
+					}
+				},
+				{
+					"filename": "deko_tunnel_ice",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1895,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 1871,
+						"h": 537
+					},
+					"frame": {
+						"x": 1,
+						"y": 540,
+						"w": 1871,
+						"h": 537
+					}
+				},
+				{
+					"filename": "deko_tunnel__common_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1629,
+						"h": 523
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 42,
+						"w": 1629,
+						"h": 476
+					},
+					"frame": {
+						"x": 1,
+						"y": 1079,
+						"w": 1629,
+						"h": 476
+					}
+				},
+				{
+					"filename": "deko_tunnel__common_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1629,
+						"h": 523
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 51,
+						"w": 1614,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 1557,
+						"w": 1614,
+						"h": 472
+					}
+				}
+			]
+		},
+		{
+			"image": "tunnels-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2002,
+				"h": 1698
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_tunnel_common_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1498,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1498,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1498,
+						"h": 431
+					}
+				},
+				{
+					"filename": "deko_tunnel_japan_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 2,
+						"w": 1136,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 1136,
+						"h": 425
+					}
+				},
+				{
+					"filename": "deko_tunnel_race_finish",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 862,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 862,
+						"h": 427
+					},
+					"frame": {
+						"x": 1139,
+						"y": 434,
+						"w": 862,
+						"h": 427
+					}
+				},
+				{
+					"filename": "deko_tunnel_race_japan_finish",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 0,
+						"w": 1053,
+						"h": 427
+					},
+					"frame": {
+						"x": 1,
+						"y": 861,
+						"w": 1053,
+						"h": 427
+					}
+				},
+				{
+					"filename": "deko_tunnel_race_start",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 862,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 862,
+						"h": 427
+					},
+					"frame": {
+						"x": 1056,
+						"y": 863,
+						"w": 862,
+						"h": 427
+					}
+				},
+				{
+					"filename": "deko_tunnel_japan_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 20,
+						"w": 1036,
+						"h": 407
+					},
+					"frame": {
+						"x": 1,
+						"y": 1290,
+						"w": 1036,
+						"h": 407
+					}
+				}
+			]
+		},
+		{
+			"image": "tunnels-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1202,
+				"h": 2010
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_tunnel_japan_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 721
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 721
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1200,
+						"h": 721
+					}
+				},
+				{
+					"filename": "deko_tunnel_race_japan_checkpoint",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 0,
+						"w": 1053,
+						"h": 427
+					},
+					"frame": {
+						"x": 1,
+						"y": 724,
+						"w": 1053,
+						"h": 427
+					}
+				},
+				{
+					"filename": "deko_tunnel_race_japan_start",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 0,
+						"w": 1053,
+						"h": 427
+					},
+					"frame": {
+						"x": 1,
+						"y": 1153,
+						"w": 1053,
+						"h": 427
+					}
+				},
+				{
+					"filename": "deko_tunnel_race_checkpoint",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 862,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 862,
+						"h": 427
+					},
+					"frame": {
+						"x": 1,
+						"y": 1582,
+						"w": 862,
+						"h": 427
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:90ce34d2f4d666766e6e3b2480aebed6:e43e83447d83b18bcf28a0d0ab2703aa:f68e0b685ff8df01cbb17b06de146d70$"
+	}
+}

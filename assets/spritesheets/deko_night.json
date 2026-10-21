@@ -1,0 +1,913 @@
+{
+	"textures": [
+		{
+			"image": "deko_night-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 2038
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_night__far_tree_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 618,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 618,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 618,
+						"h": 600
+					}
+				},
+				{
+					"filename": "deko_night_tree_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 573,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 573,
+						"h": 436
+					},
+					"frame": {
+						"x": 1,
+						"y": 603,
+						"w": 573,
+						"h": 436
+					}
+				},
+				{
+					"filename": "deko_night_tree_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 555,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 555,
+						"h": 450
+					},
+					"frame": {
+						"x": 621,
+						"y": 1,
+						"w": 555,
+						"h": 450
+					}
+				},
+				{
+					"filename": "deko_night_tree_013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 600,
+						"h": 396
+					},
+					"frame": {
+						"x": 1178,
+						"y": 1,
+						"w": 600,
+						"h": 396
+					}
+				},
+				{
+					"filename": "deko_night__far_tree_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 488,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 488,
+						"h": 500
+					},
+					"frame": {
+						"x": 1,
+						"y": 1041,
+						"w": 488,
+						"h": 500
+					}
+				},
+				{
+					"filename": "deko_night_tree_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 524,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 524,
+						"h": 436
+					},
+					"frame": {
+						"x": 1,
+						"y": 1543,
+						"w": 524,
+						"h": 436
+					}
+				},
+				{
+					"filename": "deko_night_house_009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 539,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 539,
+						"h": 310
+					},
+					"frame": {
+						"x": 621,
+						"y": 453,
+						"w": 539,
+						"h": 310
+					}
+				},
+				{
+					"filename": "deko_night_tree_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 533,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 533,
+						"h": 436
+					},
+					"frame": {
+						"x": 576,
+						"y": 765,
+						"w": 533,
+						"h": 436
+					}
+				},
+				{
+					"filename": "deko_night_tree_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 501,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 501,
+						"h": 337
+					},
+					"frame": {
+						"x": 491,
+						"y": 1203,
+						"w": 501,
+						"h": 337
+					}
+				},
+				{
+					"filename": "deko_night_house_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 507,
+						"h": 386
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 507,
+						"h": 386
+					},
+					"frame": {
+						"x": 527,
+						"y": 1542,
+						"w": 507,
+						"h": 386
+					}
+				},
+				{
+					"filename": "deko_night_light_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 186,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 186,
+						"h": 550
+					},
+					"frame": {
+						"x": 1780,
+						"y": 1,
+						"w": 186,
+						"h": 550
+					}
+				},
+				{
+					"filename": "deko_night_house_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 504,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 504,
+						"h": 300
+					},
+					"frame": {
+						"x": 1178,
+						"y": 399,
+						"w": 504,
+						"h": 300
+					}
+				},
+				{
+					"filename": "deko_night_house_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 493,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 493,
+						"h": 280
+					},
+					"frame": {
+						"x": 1162,
+						"y": 701,
+						"w": 493,
+						"h": 280
+					}
+				},
+				{
+					"filename": "deko_night_house_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 481,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 481,
+						"h": 280
+					},
+					"frame": {
+						"x": 1111,
+						"y": 983,
+						"w": 481,
+						"h": 280
+					}
+				},
+				{
+					"filename": "deko_night_house_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 250
+					},
+					"frame": {
+						"x": 994,
+						"y": 1265,
+						"w": 333,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_night_tree_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 450
+					},
+					"frame": {
+						"x": 1036,
+						"y": 1517,
+						"w": 300,
+						"h": 450
+					}
+				},
+				{
+					"filename": "deko_night_light_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 738
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 738
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1265,
+						"w": 154,
+						"h": 738
+					}
+				},
+				{
+					"filename": "deko_night_light_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 520
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 520
+					},
+					"frame": {
+						"x": 1494,
+						"y": 1265,
+						"w": 127,
+						"h": 520
+					}
+				},
+				{
+					"filename": "deko_night_tree_012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 250
+					},
+					"frame": {
+						"x": 1494,
+						"y": 1787,
+						"w": 150,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_night_bush_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 289,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 289,
+						"h": 155
+					},
+					"frame": {
+						"x": 1684,
+						"y": 553,
+						"w": 289,
+						"h": 155
+					}
+				},
+				{
+					"filename": "deko_night_tree_011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 319,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 319,
+						"h": 340
+					},
+					"frame": {
+						"x": 1657,
+						"y": 710,
+						"w": 319,
+						"h": 340
+					}
+				},
+				{
+					"filename": "deko_night_light_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 273,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 273,
+						"h": 443
+					},
+					"frame": {
+						"x": 1623,
+						"y": 1052,
+						"w": 273,
+						"h": 443
+					}
+				},
+				{
+					"filename": "deko_night_bush_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 292,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 292,
+						"h": 174
+					},
+					"frame": {
+						"x": 1623,
+						"y": 1497,
+						"w": 292,
+						"h": 174
+					}
+				},
+				{
+					"filename": "deko_night_tree_009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 290,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 290,
+						"h": 322
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1673,
+						"w": 290,
+						"h": 322
+					}
+				},
+				{
+					"filename": "deko_night_light_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 146,
+						"h": 319
+					},
+					"frame": {
+						"x": 1898,
+						"y": 1052,
+						"w": 146,
+						"h": 319
+					}
+				}
+			]
+		},
+		{
+			"image": "deko_night-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1455,
+				"h": 1006
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_night_tree_010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 351,
+						"h": 373
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 373
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 349,
+						"h": 373
+					}
+				},
+				{
+					"filename": "deko_night_house_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 457,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 457,
+						"h": 280
+					},
+					"frame": {
+						"x": 1,
+						"y": 376,
+						"w": 457,
+						"h": 280
+					}
+				},
+				{
+					"filename": "deko_night_house_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 370
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 344,
+						"h": 369
+					},
+					"frame": {
+						"x": 352,
+						"y": 1,
+						"w": 344,
+						"h": 369
+					}
+				},
+				{
+					"filename": "deko_night_house_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 380,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 380,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 658,
+						"w": 380,
+						"h": 320
+					}
+				},
+				{
+					"filename": "deko_night__far_tree_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 343,
+						"h": 347
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 343,
+						"h": 347
+					},
+					"frame": {
+						"x": 383,
+						"y": 658,
+						"w": 343,
+						"h": 347
+					}
+				},
+				{
+					"filename": "deko_night_bush_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 287,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 287,
+						"h": 160
+					},
+					"frame": {
+						"x": 460,
+						"y": 372,
+						"w": 287,
+						"h": 160
+					}
+				},
+				{
+					"filename": "deko_night_bush_007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 118
+					},
+					"frame": {
+						"x": 460,
+						"y": 534,
+						"w": 188,
+						"h": 118
+					}
+				},
+				{
+					"filename": "deko_night_tree_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 319
+					},
+					"frame": {
+						"x": 698,
+						"y": 1,
+						"w": 323,
+						"h": 319
+					}
+				},
+				{
+					"filename": "deko_night_tree_007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 314,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 314,
+						"h": 379
+					},
+					"frame": {
+						"x": 728,
+						"y": 534,
+						"w": 314,
+						"h": 379
+					}
+				},
+				{
+					"filename": "deko_night_bush_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 158
+					},
+					"frame": {
+						"x": 749,
+						"y": 322,
+						"w": 278,
+						"h": 158
+					}
+				},
+				{
+					"filename": "deko_night_light_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 170,
+						"h": 319
+					},
+					"frame": {
+						"x": 1023,
+						"y": 1,
+						"w": 170,
+						"h": 319
+					}
+				},
+				{
+					"filename": "deko_night_bush_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 264,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 264,
+						"h": 160
+					},
+					"frame": {
+						"x": 1029,
+						"y": 322,
+						"w": 264,
+						"h": 160
+					}
+				},
+				{
+					"filename": "deko_night_bush_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 180
+					},
+					"frame": {
+						"x": 1195,
+						"y": 1,
+						"w": 231,
+						"h": 180
+					}
+				},
+				{
+					"filename": "deko_night_light_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 370
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 366
+					},
+					"frame": {
+						"x": 1295,
+						"y": 183,
+						"w": 141,
+						"h": 366
+					}
+				},
+				{
+					"filename": "deko_night_light_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 205,
+						"h": 370
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 205,
+						"h": 368
+					},
+					"frame": {
+						"x": 1044,
+						"y": 484,
+						"w": 205,
+						"h": 368
+					}
+				},
+				{
+					"filename": "deko_night_bush_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 249,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 249,
+						"h": 150
+					},
+					"frame": {
+						"x": 1044,
+						"y": 854,
+						"w": 249,
+						"h": 150
+					}
+				},
+				{
+					"filename": "deko_night__far_tree_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 203,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 203,
+						"h": 200
+					},
+					"frame": {
+						"x": 1251,
+						"y": 551,
+						"w": 203,
+						"h": 200
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2364fb7d0bde4d574fe58690daac7c39:400fb64f12a8737aa6bfde9ef4ed7406:e9c855f99ad6a3d2bb14ee2a943e9020$"
+	}
+}

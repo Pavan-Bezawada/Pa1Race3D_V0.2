@@ -1,0 +1,671 @@
+{
+	"textures": [
+		{
+			"image": "deko_desrt.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1788,
+				"h": 1576
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_desert_tree_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 595,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 595,
+						"h": 599
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 595,
+						"h": 599
+					}
+				},
+				{
+					"filename": "deko_desert_house_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 534,
+						"h": 323
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 534,
+						"h": 323
+					},
+					"frame": {
+						"x": 1,
+						"y": 602,
+						"w": 534,
+						"h": 323
+					}
+				},
+				{
+					"filename": "deko_desert_far_hill_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 531,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 531,
+						"h": 280
+					},
+					"frame": {
+						"x": 598,
+						"y": 1,
+						"w": 531,
+						"h": 280
+					}
+				},
+				{
+					"filename": "deko_desert_tree_007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 378,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 378,
+						"h": 400
+					},
+					"frame": {
+						"x": 1,
+						"y": 927,
+						"w": 378,
+						"h": 400
+					}
+				},
+				{
+					"filename": "deko_desert_far_hill_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 525,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 525,
+						"h": 171
+					},
+					"frame": {
+						"x": 598,
+						"y": 283,
+						"w": 525,
+						"h": 171
+					}
+				},
+				{
+					"filename": "deko_desert_house_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 435,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 435,
+						"h": 231
+					},
+					"frame": {
+						"x": 1131,
+						"y": 1,
+						"w": 435,
+						"h": 231
+					}
+				},
+				{
+					"filename": "deko_desert_vehicle_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 337,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 246
+					},
+					"frame": {
+						"x": 1,
+						"y": 1329,
+						"w": 337,
+						"h": 246
+					}
+				},
+				{
+					"filename": "deko_desert_tree_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 400
+					},
+					"frame": {
+						"x": 381,
+						"y": 927,
+						"w": 198,
+						"h": 400
+					}
+				},
+				{
+					"filename": "deko_desert_far_hill_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 203
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 203
+					},
+					"frame": {
+						"x": 598,
+						"y": 456,
+						"w": 400,
+						"h": 203
+					}
+				},
+				{
+					"filename": "deko_desert_cactus_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 272,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 272,
+						"h": 230
+					},
+					"frame": {
+						"x": 340,
+						"y": 1329,
+						"w": 272,
+						"h": 230
+					}
+				},
+				{
+					"filename": "deko_desert_house_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 328,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 328,
+						"h": 200
+					},
+					"frame": {
+						"x": 537,
+						"y": 661,
+						"w": 328,
+						"h": 200
+					}
+				},
+				{
+					"filename": "deko_desert_tree_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 301,
+						"h": 440
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 301,
+						"h": 440
+					},
+					"frame": {
+						"x": 581,
+						"y": 863,
+						"w": 301,
+						"h": 440
+					}
+				},
+				{
+					"filename": "deko_desert_house_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 260,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 260,
+						"h": 170
+					},
+					"frame": {
+						"x": 614,
+						"y": 1305,
+						"w": 260,
+						"h": 170
+					}
+				},
+				{
+					"filename": "deko_desert_cactus_tree_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 353,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 352,
+						"h": 307
+					},
+					"frame": {
+						"x": 1131,
+						"y": 234,
+						"w": 352,
+						"h": 307
+					}
+				},
+				{
+					"filename": "deko_desert_tree_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 420
+					},
+					"frame": {
+						"x": 1485,
+						"y": 234,
+						"w": 302,
+						"h": 420
+					}
+				},
+				{
+					"filename": "deko_desert_house_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 205,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 205,
+						"h": 180
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1,
+						"w": 205,
+						"h": 180
+					}
+				},
+				{
+					"filename": "deko_desert_footpath_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 355,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 349,
+						"h": 305
+					},
+					"frame": {
+						"x": 1000,
+						"y": 543,
+						"w": 349,
+						"h": 305
+					}
+				},
+				{
+					"filename": "deko_desert_animal_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 343,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 343,
+						"h": 350
+					},
+					"frame": {
+						"x": 884,
+						"y": 850,
+						"w": 343,
+						"h": 350
+					}
+				},
+				{
+					"filename": "deko_desert_animal_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 311,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 311,
+						"h": 350
+					},
+					"frame": {
+						"x": 1229,
+						"y": 850,
+						"w": 311,
+						"h": 350
+					}
+				},
+				{
+					"filename": "deko_desert_house_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 17,
+						"w": 335,
+						"h": 318
+					},
+					"frame": {
+						"x": 884,
+						"y": 1202,
+						"w": 335,
+						"h": 318
+					}
+				},
+				{
+					"filename": "deko_desert_tree_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 306,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 306,
+						"h": 329
+					},
+					"frame": {
+						"x": 1221,
+						"y": 1202,
+						"w": 306,
+						"h": 329
+					}
+				},
+				{
+					"filename": "deko_desert_cactus_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 105,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 105,
+						"h": 150
+					},
+					"frame": {
+						"x": 867,
+						"y": 661,
+						"w": 105,
+						"h": 150
+					}
+				},
+				{
+					"filename": "deko_desert_animal_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 194,
+						"h": 179
+					},
+					"frame": {
+						"x": 1351,
+						"y": 656,
+						"w": 194,
+						"h": 179
+					}
+				},
+				{
+					"filename": "deko_desert_house_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 186,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 186,
+						"h": 180
+					},
+					"frame": {
+						"x": 1547,
+						"y": 656,
+						"w": 186,
+						"h": 180
+					}
+				},
+				{
+					"filename": "deko_desert_cactus_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 185,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 185,
+						"h": 120
+					},
+					"frame": {
+						"x": 1542,
+						"y": 838,
+						"w": 185,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_desert_item_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 150
+					},
+					"frame": {
+						"x": 1542,
+						"y": 960,
+						"w": 155,
+						"h": 150
+					}
+				},
+				{
+					"filename": "deko_desert_cactus_007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 175,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 175,
+						"h": 120
+					},
+					"frame": {
+						"x": 1542,
+						"y": 1112,
+						"w": 175,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_desert_cactus_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 140
+					},
+					"frame": {
+						"x": 1529,
+						"y": 1234,
+						"w": 144,
+						"h": 140
+					}
+				},
+				{
+					"filename": "deko_desert_cactus_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 100
+					},
+					"frame": {
+						"x": 1351,
+						"y": 543,
+						"w": 96,
+						"h": 100
+					}
+				},
+				{
+					"filename": "deko_desert_cactus_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 101,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 101,
+						"h": 80
+					},
+					"frame": {
+						"x": 1000,
+						"y": 456,
+						"w": 101,
+						"h": 80
+					}
+				},
+				{
+					"filename": "deko_desert_cactus_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 100
+					},
+					"frame": {
+						"x": 1735,
+						"y": 656,
+						"w": 43,
+						"h": 100
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2bc1db7256db7163fb191fb1f7e20549:16ef8c9e82c6038c8b449588cd0d606d:db26b0f559aaccbcd663565da3b094a8$"
+	}
+}

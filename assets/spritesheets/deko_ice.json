@@ -1,0 +1,671 @@
+{
+	"textures": [
+		{
+			"image": "deko_ice.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1983,
+				"h": 1645
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_ice_house_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 637,
+						"h": 486
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 637,
+						"h": 478
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 637,
+						"h": 478
+					}
+				},
+				{
+					"filename": "deko_ice_house_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 647,
+						"h": 391
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 647,
+						"h": 391
+					},
+					"frame": {
+						"x": 640,
+						"y": 1,
+						"w": 647,
+						"h": 391
+					}
+				},
+				{
+					"filename": "deko_ice_tree_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 607,
+						"h": 351
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 607,
+						"h": 351
+					},
+					"frame": {
+						"x": 1,
+						"y": 481,
+						"w": 607,
+						"h": 351
+					}
+				},
+				{
+					"filename": "deko_ice_house_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 486,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 486,
+						"h": 450
+					},
+					"frame": {
+						"x": 1,
+						"y": 834,
+						"w": 486,
+						"h": 450
+					}
+				},
+				{
+					"filename": "deko_ice_far_hill_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 500,
+						"h": 358
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 500,
+						"h": 358
+					},
+					"frame": {
+						"x": 1,
+						"y": 1286,
+						"w": 500,
+						"h": 358
+					}
+				},
+				{
+					"filename": "deko_ice_house_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 541,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 541,
+						"h": 394
+					},
+					"frame": {
+						"x": 1289,
+						"y": 1,
+						"w": 541,
+						"h": 394
+					}
+				},
+				{
+					"filename": "deko_ice_house_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 460,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 460,
+						"h": 400
+					},
+					"frame": {
+						"x": 640,
+						"y": 394,
+						"w": 460,
+						"h": 400
+					}
+				},
+				{
+					"filename": "deko_ice_item_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 408,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 408,
+						"h": 306
+					},
+					"frame": {
+						"x": 1102,
+						"y": 397,
+						"w": 408,
+						"h": 306
+					}
+				},
+				{
+					"filename": "deko_ice_tree_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 336,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 336,
+						"h": 320
+					},
+					"frame": {
+						"x": 1512,
+						"y": 397,
+						"w": 336,
+						"h": 320
+					}
+				},
+				{
+					"filename": "deko_ice_far_hill_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 220,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 216,
+						"h": 400
+					},
+					"frame": {
+						"x": 489,
+						"y": 834,
+						"w": 216,
+						"h": 400
+					}
+				},
+				{
+					"filename": "deko_ice_tree_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 359,
+						"h": 351
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 359,
+						"h": 351
+					},
+					"frame": {
+						"x": 707,
+						"y": 796,
+						"w": 359,
+						"h": 351
+					}
+				},
+				{
+					"filename": "deko_ice_tree_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 400
+					},
+					"frame": {
+						"x": 503,
+						"y": 1236,
+						"w": 220,
+						"h": 400
+					}
+				},
+				{
+					"filename": "deko_ice_tree_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 267,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 267,
+						"h": 350
+					},
+					"frame": {
+						"x": 725,
+						"y": 1149,
+						"w": 267,
+						"h": 350
+					}
+				},
+				{
+					"filename": "deko_ice_house_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 365,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 365,
+						"h": 169
+					},
+					"frame": {
+						"x": 1102,
+						"y": 705,
+						"w": 365,
+						"h": 169
+					}
+				},
+				{
+					"filename": "deko_ice_item_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 316,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 316,
+						"h": 300
+					},
+					"frame": {
+						"x": 1068,
+						"y": 876,
+						"w": 316,
+						"h": 300
+					}
+				},
+				{
+					"filename": "deko_ice_tree_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 314,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 314,
+						"h": 300
+					},
+					"frame": {
+						"x": 994,
+						"y": 1178,
+						"w": 314,
+						"h": 300
+					}
+				},
+				{
+					"filename": "deko_ice_house_009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 171
+					},
+					"frame": {
+						"x": 1469,
+						"y": 719,
+						"w": 362,
+						"h": 171
+					}
+				},
+				{
+					"filename": "deko_ice_item_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 260,
+						"h": 279
+					},
+					"frame": {
+						"x": 1386,
+						"y": 892,
+						"w": 260,
+						"h": 279
+					}
+				},
+				{
+					"filename": "deko_ice_house_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 246,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 246,
+						"h": 250
+					},
+					"frame": {
+						"x": 1648,
+						"y": 892,
+						"w": 246,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_ice_item_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 10,
+						"w": 69,
+						"h": 338
+					},
+					"frame": {
+						"x": 1832,
+						"y": 1,
+						"w": 69,
+						"h": 338
+					}
+				},
+				{
+					"filename": "deko_ice_item_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 279,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 279,
+						"h": 132
+					},
+					"frame": {
+						"x": 725,
+						"y": 1501,
+						"w": 279,
+						"h": 132
+					}
+				},
+				{
+					"filename": "deko_ice_vehicle_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 349,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 146
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1480,
+						"w": 349,
+						"h": 146
+					}
+				},
+				{
+					"filename": "deko_ice_item_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 70,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 16,
+						"w": 67,
+						"h": 263
+					},
+					"frame": {
+						"x": 1903,
+						"y": 1,
+						"w": 67,
+						"h": 263
+					}
+				},
+				{
+					"filename": "deko_ice_animal_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 277,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 256,
+						"h": 220
+					},
+					"frame": {
+						"x": 1310,
+						"y": 1178,
+						"w": 256,
+						"h": 220
+					}
+				},
+				{
+					"filename": "deko_ice_far_hill_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 213,
+						"h": 214
+					},
+					"frame": {
+						"x": 1357,
+						"y": 1400,
+						"w": 213,
+						"h": 214
+					}
+				},
+				{
+					"filename": "deko_ice_animal_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 263,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 263,
+						"h": 171
+					},
+					"frame": {
+						"x": 1648,
+						"y": 1144,
+						"w": 263,
+						"h": 171
+					}
+				},
+				{
+					"filename": "deko_ice_item_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 242,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 168
+					},
+					"frame": {
+						"x": 1572,
+						"y": 1317,
+						"w": 242,
+						"h": 168
+					}
+				},
+				{
+					"filename": "deko_ice_animal_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 8,
+						"w": 252,
+						"h": 140
+					},
+					"frame": {
+						"x": 1572,
+						"y": 1487,
+						"w": 252,
+						"h": 140
+					}
+				},
+				{
+					"filename": "deko_ice_item_007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 140
+					},
+					"frame": {
+						"x": 1816,
+						"y": 1317,
+						"w": 127,
+						"h": 140
+					}
+				},
+				{
+					"filename": "deko_ice_item_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 180
+					},
+					"frame": {
+						"x": 1826,
+						"y": 1459,
+						"w": 156,
+						"h": 180
+					}
+				},
+				{
+					"filename": "deko_ice_animal_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 109,
+						"h": 119
+					},
+					"frame": {
+						"x": 1833,
+						"y": 719,
+						"w": 109,
+						"h": 119
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:38e876e02e4833a1b8a4218ba8a66bed:90cd5cd65a85e225b6f24283e3eccee3:838114bcd5d97ee66a2f9f9b380e44fc$"
+	}
+}

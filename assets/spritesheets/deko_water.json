@@ -1,0 +1,608 @@
+{
+	"textures": [
+		{
+			"image": "deko_water.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1014,
+				"h": 1244
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_water_far_lighthouse",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 413,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 383,
+						"h": 528
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 383,
+						"h": 528
+					}
+				},
+				{
+					"filename": "deko_water_far_boat_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 432,
+						"h": 419
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 432,
+						"h": 419
+					},
+					"frame": {
+						"x": 386,
+						"y": 1,
+						"w": 432,
+						"h": 419
+					}
+				},
+				{
+					"filename": "deko_water_far_boat_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 396,
+						"h": 443
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 396,
+						"h": 443
+					},
+					"frame": {
+						"x": 1,
+						"y": 531,
+						"w": 396,
+						"h": 443
+					}
+				},
+				{
+					"filename": "deko_water_far_boat_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 337,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 422
+					},
+					"frame": {
+						"x": 399,
+						"y": 422,
+						"w": 337,
+						"h": 422
+					}
+				},
+				{
+					"filename": "deko_water_far_boat_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 200
+					},
+					"frame": {
+						"x": 738,
+						"y": 422,
+						"w": 275,
+						"h": 200
+					}
+				},
+				{
+					"filename": "deko_water_boat_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 333,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 214,
+						"w": 333,
+						"h": 275
+					},
+					"frame": {
+						"x": 399,
+						"y": 846,
+						"w": 333,
+						"h": 275
+					}
+				},
+				{
+					"filename": "deko_water_far_iceburg_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 309,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 308,
+						"h": 148
+					},
+					"frame": {
+						"x": 1,
+						"y": 976,
+						"w": 308,
+						"h": 148
+					}
+				},
+				{
+					"filename": "deko_water_far_boulder_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 203,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 203,
+						"h": 200
+					},
+					"frame": {
+						"x": 738,
+						"y": 624,
+						"w": 203,
+						"h": 200
+					}
+				},
+				{
+					"filename": "deko_water_boat_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 148,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 239
+					},
+					"frame": {
+						"x": 820,
+						"y": 1,
+						"w": 148,
+						"h": 239
+					}
+				},
+				{
+					"filename": "deko_water_far_boulder_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 183,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 183,
+						"h": 130
+					},
+					"frame": {
+						"x": 820,
+						"y": 242,
+						"w": 183,
+						"h": 130
+					}
+				},
+				{
+					"filename": "deko_water_far_boulder_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 170,
+						"h": 91
+					},
+					"frame": {
+						"x": 1,
+						"y": 1126,
+						"w": 170,
+						"h": 91
+					}
+				},
+				{
+					"filename": "deko_water_far_iceburg_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 120
+					},
+					"frame": {
+						"x": 311,
+						"y": 1123,
+						"w": 164,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_water_boat_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 120
+					},
+					"frame": {
+						"x": 477,
+						"y": 1123,
+						"w": 94,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_water_boat_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 120
+					},
+					"frame": {
+						"x": 573,
+						"y": 1123,
+						"w": 74,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_water_boat_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 211,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 167,
+						"w": 207,
+						"h": 121
+					},
+					"frame": {
+						"x": 738,
+						"y": 826,
+						"w": 207,
+						"h": 121
+					}
+				},
+				{
+					"filename": "deko_water_far_boulder_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 150
+					},
+					"frame": {
+						"x": 734,
+						"y": 949,
+						"w": 128,
+						"h": 150
+					}
+				},
+				{
+					"filename": "deko_water_far_boulder_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 59,
+						"w": 122,
+						"h": 97
+					},
+					"frame": {
+						"x": 173,
+						"y": 1126,
+						"w": 122,
+						"h": 97
+					}
+				},
+				{
+					"filename": "deko_water_far_boulder_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 118,
+						"h": 107
+					},
+					"frame": {
+						"x": 649,
+						"y": 1123,
+						"w": 118,
+						"h": 107
+					}
+				},
+				{
+					"filename": "deko_water_far_boulder_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 59,
+						"w": 138,
+						"h": 101
+					},
+					"frame": {
+						"x": 864,
+						"y": 949,
+						"w": 138,
+						"h": 101
+					}
+				},
+				{
+					"filename": "deko_water_boat_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 45,
+						"w": 135,
+						"h": 55
+					},
+					"frame": {
+						"x": 864,
+						"y": 1052,
+						"w": 135,
+						"h": 55
+					}
+				},
+				{
+					"filename": "deko_water_flower_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 72,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 70,
+						"h": 50
+					},
+					"frame": {
+						"x": 943,
+						"y": 624,
+						"w": 70,
+						"h": 50
+					}
+				},
+				{
+					"filename": "deko_water_flower_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 83,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 49
+					},
+					"frame": {
+						"x": 311,
+						"y": 976,
+						"w": 83,
+						"h": 49
+					}
+				},
+				{
+					"filename": "deko_water_flower_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 76,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 50
+					},
+					"frame": {
+						"x": 311,
+						"y": 1027,
+						"w": 76,
+						"h": 50
+					}
+				},
+				{
+					"filename": "deko_water_far_boulder_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 117,
+						"h": 96
+					},
+					"frame": {
+						"x": 769,
+						"y": 1109,
+						"w": 117,
+						"h": 96
+					}
+				},
+				{
+					"filename": "deko_water_flower_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 64,
+						"h": 39
+					},
+					"frame": {
+						"x": 820,
+						"y": 374,
+						"w": 64,
+						"h": 39
+					}
+				},
+				{
+					"filename": "deko_water_flower_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 62,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 62,
+						"h": 38
+					},
+					"frame": {
+						"x": 943,
+						"y": 676,
+						"w": 62,
+						"h": 38
+					}
+				},
+				{
+					"filename": "deko_water_flower_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 40
+					},
+					"frame": {
+						"x": 311,
+						"y": 1079,
+						"w": 59,
+						"h": 40
+					}
+				},
+				{
+					"filename": "deko_water_flower_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 970,
+						"y": 1,
+						"w": 42,
+						"h": 40
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e9914041aa5d15d8a3048fd43e4a8e09:79654201614249fe01fa045157fe8672:97a7c0097d5e1900730823dde4fba7e6$"
+	}
+}

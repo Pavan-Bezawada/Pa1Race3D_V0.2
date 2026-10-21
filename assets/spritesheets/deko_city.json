@@ -1,0 +1,398 @@
+{
+	"textures": [
+		{
+			"image": "deko_city.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1962,
+				"h": 1824
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_city_item_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 602,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 602,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 602,
+						"h": 600
+					}
+				},
+				{
+					"filename": "deko_city_far_item_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 540,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 540,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 603,
+						"w": 540,
+						"h": 600
+					}
+				},
+				{
+					"filename": "deko_city_item_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 763,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 751,
+						"h": 378
+					},
+					"frame": {
+						"x": 605,
+						"y": 1,
+						"w": 751,
+						"h": 378
+					}
+				},
+				{
+					"filename": "deko_city_house_007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 502,
+						"h": 599
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 502,
+						"h": 599
+					},
+					"frame": {
+						"x": 1,
+						"y": 1205,
+						"w": 502,
+						"h": 599
+					}
+				},
+				{
+					"filename": "deko_city_house_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 544,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 544,
+						"h": 385
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1,
+						"w": 544,
+						"h": 385
+					}
+				},
+				{
+					"filename": "deko_city_house_013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 545,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 543,
+						"h": 300
+					},
+					"frame": {
+						"x": 605,
+						"y": 381,
+						"w": 543,
+						"h": 300
+					}
+				},
+				{
+					"filename": "deko_city_house_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 497,
+						"h": 440
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 497,
+						"h": 440
+					},
+					"frame": {
+						"x": 543,
+						"y": 683,
+						"w": 497,
+						"h": 440
+					}
+				},
+				{
+					"filename": "deko_city_house_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 534,
+						"h": 357
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 534,
+						"h": 357
+					},
+					"frame": {
+						"x": 1150,
+						"y": 388,
+						"w": 534,
+						"h": 357
+					}
+				},
+				{
+					"filename": "deko_city_item_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 458,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 458,
+						"h": 450
+					},
+					"frame": {
+						"x": 1042,
+						"y": 747,
+						"w": 458,
+						"h": 450
+					}
+				},
+				{
+					"filename": "deko_city_item_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 250
+					},
+					"frame": {
+						"x": 1686,
+						"y": 388,
+						"w": 275,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_city_house_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 489,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 489,
+						"h": 320
+					},
+					"frame": {
+						"x": 543,
+						"y": 1125,
+						"w": 489,
+						"h": 320
+					}
+				},
+				{
+					"filename": "deko_city_house_010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 423,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 423,
+						"h": 320
+					},
+					"frame": {
+						"x": 505,
+						"y": 1447,
+						"w": 423,
+						"h": 320
+					}
+				},
+				{
+					"filename": "deko_city_house_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 410,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 410,
+						"h": 300
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1199,
+						"w": 410,
+						"h": 300
+					}
+				},
+				{
+					"filename": "deko_city_house_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 382,
+						"h": 370
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 382,
+						"h": 370
+					},
+					"frame": {
+						"x": 1502,
+						"y": 747,
+						"w": 382,
+						"h": 370
+					}
+				},
+				{
+					"filename": "deko_city_house_011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 331,
+						"h": 320
+					},
+					"frame": {
+						"x": 930,
+						"y": 1501,
+						"w": 331,
+						"h": 320
+					}
+				},
+				{
+					"filename": "deko_city_house_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 327,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 327,
+						"h": 322
+					},
+					"frame": {
+						"x": 1263,
+						"y": 1501,
+						"w": 327,
+						"h": 322
+					}
+				},
+				{
+					"filename": "deko_city_house_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 367,
+						"h": 330
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 367,
+						"h": 327
+					},
+					"frame": {
+						"x": 1502,
+						"y": 1119,
+						"w": 367,
+						"h": 327
+					}
+				},
+				{
+					"filename": "deko_city_house_012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 329,
+						"h": 330
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 329,
+						"h": 330
+					},
+					"frame": {
+						"x": 1592,
+						"y": 1448,
+						"w": 329,
+						"h": 330
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9b355e7d9317b183051e64e7341fa34d:8d5e880809f044734327636c1c5b0884:d1ae169d6629289e0675b6179f5df044$"
+	}
+}

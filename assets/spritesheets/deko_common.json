@@ -1,0 +1,1837 @@
+{
+	"textures": [
+		{
+			"image": "deko_common-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2040,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_common_tree_010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 719,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 719,
+						"h": 700
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 719,
+						"h": 700
+					}
+				},
+				{
+					"filename": "deko_common_house_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 740,
+						"h": 566
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 740,
+						"h": 566
+					},
+					"frame": {
+						"x": 722,
+						"y": 1,
+						"w": 740,
+						"h": 566
+					}
+				},
+				{
+					"filename": "deko_common_tree_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 618,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 618,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 703,
+						"w": 618,
+						"h": 600
+					}
+				},
+				{
+					"filename": "deko_common_tree_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 570,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 570,
+						"h": 550
+					},
+					"frame": {
+						"x": 1464,
+						"y": 1,
+						"w": 570,
+						"h": 550
+					}
+				},
+				{
+					"filename": "deko_common_tree_007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 402,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 402,
+						"h": 700
+					},
+					"frame": {
+						"x": 1,
+						"y": 1305,
+						"w": 402,
+						"h": 700
+					}
+				},
+				{
+					"filename": "deko_common_tree_012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 342,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 342,
+						"h": 700
+					},
+					"frame": {
+						"x": 405,
+						"y": 1305,
+						"w": 342,
+						"h": 700
+					}
+				},
+				{
+					"filename": "deko_common_far_hill_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 682,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 682,
+						"h": 232
+					},
+					"frame": {
+						"x": 722,
+						"y": 569,
+						"w": 682,
+						"h": 232
+					}
+				},
+				{
+					"filename": "deko_common_tree_011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 488,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 488,
+						"h": 500
+					},
+					"frame": {
+						"x": 621,
+						"y": 803,
+						"w": 488,
+						"h": 500
+					}
+				},
+				{
+					"filename": "deko_common_tree_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 463,
+						"h": 521
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 456,
+						"h": 520
+					},
+					"frame": {
+						"x": 749,
+						"y": 1305,
+						"w": 456,
+						"h": 520
+					}
+				},
+				{
+					"filename": "deko_common_pillar_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 441,
+						"h": 500
+					},
+					"frame": {
+						"x": 1111,
+						"y": 803,
+						"w": 441,
+						"h": 500
+					}
+				},
+				{
+					"filename": "deko_common_tree_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 502,
+						"h": 514
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 471,
+						"h": 514
+					},
+					"frame": {
+						"x": 1207,
+						"y": 1305,
+						"w": 471,
+						"h": 514
+					}
+				},
+				{
+					"filename": "deko_common_tree_009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 484,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 484,
+						"h": 500
+					},
+					"frame": {
+						"x": 1554,
+						"y": 553,
+						"w": 484,
+						"h": 500
+					}
+				},
+				{
+					"filename": "deko_common_tree_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 348,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 348,
+						"h": 480
+					},
+					"frame": {
+						"x": 1680,
+						"y": 1055,
+						"w": 348,
+						"h": 480
+					}
+				},
+				{
+					"filename": "deko_common_stones_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 355,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 355,
+						"h": 356
+					},
+					"frame": {
+						"x": 1680,
+						"y": 1537,
+						"w": 355,
+						"h": 356
+					}
+				},
+				{
+					"filename": "deko_common_animal_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 220
+					},
+					"frame": {
+						"x": 749,
+						"y": 1827,
+						"w": 184,
+						"h": 220
+					}
+				},
+				{
+					"filename": "deko_old_vehicle_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 328,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 328,
+						"h": 190
+					},
+					"frame": {
+						"x": 935,
+						"y": 1827,
+						"w": 328,
+						"h": 190
+					}
+				},
+				{
+					"filename": "deko_old_vehicle_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 348,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 341,
+						"h": 170
+					},
+					"frame": {
+						"x": 1265,
+						"y": 1821,
+						"w": 341,
+						"h": 170
+					}
+				},
+				{
+					"filename": "deko_common_indicator_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 107,
+						"h": 218
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 100,
+						"h": 218
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1055,
+						"w": 100,
+						"h": 218
+					}
+				},
+				{
+					"filename": "deko_common_bush_009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 120
+					},
+					"frame": {
+						"x": 1608,
+						"y": 1895,
+						"w": 215,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_common_bush_018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 130
+					},
+					"frame": {
+						"x": 1825,
+						"y": 1895,
+						"w": 214,
+						"h": 130
+					}
+				},
+				{
+					"filename": "deko_common_house_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 2007,
+						"w": 66,
+						"h": 40
+					}
+				},
+				{
+					"filename": "deko_common_footpath_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 88
+					},
+					"frame": {
+						"x": 621,
+						"y": 703,
+						"w": 58,
+						"h": 88
+					}
+				},
+				{
+					"filename": "deko_common_boulder_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 78
+					},
+					"frame": {
+						"x": 1406,
+						"y": 569,
+						"w": 46,
+						"h": 78
+					}
+				},
+				{
+					"filename": "deko_common_footpath_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 65,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 55,
+						"h": 66
+					},
+					"frame": {
+						"x": 1608,
+						"y": 1821,
+						"w": 55,
+						"h": 66
+					}
+				},
+				{
+					"filename": "deko_common_bush_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 59
+					},
+					"frame": {
+						"x": 1406,
+						"y": 649,
+						"w": 100,
+						"h": 59
+					}
+				}
+			]
+		},
+		{
+			"image": "deko_common-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1845,
+				"h": 1780
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "deko_common_house_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 579,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 579,
+						"h": 450
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 579,
+						"h": 450
+					}
+				},
+				{
+					"filename": "deko_common_streetlight_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 464,
+						"h": 435
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 464,
+						"h": 435
+					},
+					"frame": {
+						"x": 1,
+						"y": 453,
+						"w": 464,
+						"h": 435
+					}
+				},
+				{
+					"filename": "deko_common_pillar_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 390,
+						"h": 489
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 390,
+						"h": 489
+					},
+					"frame": {
+						"x": 1,
+						"y": 890,
+						"w": 390,
+						"h": 489
+					}
+				},
+				{
+					"filename": "deko_common_tree_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 376,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 376,
+						"h": 398
+					},
+					"frame": {
+						"x": 1,
+						"y": 1381,
+						"w": 376,
+						"h": 398
+					}
+				},
+				{
+					"filename": "deko_common_deadtree_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 383,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 383,
+						"h": 400
+					},
+					"frame": {
+						"x": 582,
+						"y": 1,
+						"w": 383,
+						"h": 400
+					}
+				},
+				{
+					"filename": "deko_common_animal_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 378,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 378,
+						"h": 350
+					},
+					"frame": {
+						"x": 967,
+						"y": 1,
+						"w": 378,
+						"h": 350
+					}
+				},
+				{
+					"filename": "deko_common_tree_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 343,
+						"h": 347
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 343,
+						"h": 347
+					},
+					"frame": {
+						"x": 1347,
+						"y": 1,
+						"w": 343,
+						"h": 347
+					}
+				},
+				{
+					"filename": "deko_common_billboard_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 156,
+						"h": 363
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 152,
+						"h": 363
+					},
+					"frame": {
+						"x": 1692,
+						"y": 1,
+						"w": 152,
+						"h": 363
+					}
+				},
+				{
+					"filename": "deko_common_pillar_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 230,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 550
+					},
+					"frame": {
+						"x": 393,
+						"y": 890,
+						"w": 230,
+						"h": 550
+					}
+				},
+				{
+					"filename": "deko_common_well",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 300
+					},
+					"frame": {
+						"x": 379,
+						"y": 1442,
+						"w": 333,
+						"h": 300
+					}
+				},
+				{
+					"filename": "deko_common_streetlight_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 245,
+						"h": 380
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 245,
+						"h": 380
+					},
+					"frame": {
+						"x": 467,
+						"y": 453,
+						"w": 245,
+						"h": 380
+					}
+				},
+				{
+					"filename": "deko_common_deadtree_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 262,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 262,
+						"h": 450
+					},
+					"frame": {
+						"x": 714,
+						"y": 403,
+						"w": 262,
+						"h": 450
+					}
+				},
+				{
+					"filename": "deko_common_deadtree_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 315,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 315,
+						"h": 350
+					},
+					"frame": {
+						"x": 978,
+						"y": 353,
+						"w": 315,
+						"h": 350
+					}
+				},
+				{
+					"filename": "deko_common_streetlight_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 211,
+						"h": 444
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 211,
+						"h": 444
+					},
+					"frame": {
+						"x": 625,
+						"y": 855,
+						"w": 211,
+						"h": 444
+					}
+				},
+				{
+					"filename": "deko_common_streetlight_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 450
+					},
+					"frame": {
+						"x": 838,
+						"y": 855,
+						"w": 73,
+						"h": 450
+					}
+				},
+				{
+					"filename": "deko_common_vehicle_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 250
+					},
+					"frame": {
+						"x": 978,
+						"y": 705,
+						"w": 330,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_common_vehicle_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 315,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 315,
+						"h": 250
+					},
+					"frame": {
+						"x": 913,
+						"y": 957,
+						"w": 315,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_common_streetlight_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 336
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 336
+					},
+					"frame": {
+						"x": 1295,
+						"y": 353,
+						"w": 92,
+						"h": 336
+					}
+				},
+				{
+					"filename": "deko_common_pillar_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 315
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 315
+					},
+					"frame": {
+						"x": 1389,
+						"y": 350,
+						"w": 200,
+						"h": 315
+					}
+				},
+				{
+					"filename": "deko_common_well_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 244,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 244,
+						"h": 250
+					},
+					"frame": {
+						"x": 1591,
+						"y": 366,
+						"w": 244,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_common_deadtree_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 281,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 281,
+						"h": 180
+					},
+					"frame": {
+						"x": 913,
+						"y": 1209,
+						"w": 281,
+						"h": 180
+					}
+				},
+				{
+					"filename": "deko_common_bush_008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 263,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 263,
+						"h": 250
+					},
+					"frame": {
+						"x": 1230,
+						"y": 957,
+						"w": 263,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_common_animal_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 227,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 250
+					},
+					"frame": {
+						"x": 1196,
+						"y": 1209,
+						"w": 227,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_common_bush_015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 204,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 204,
+						"h": 120
+					},
+					"frame": {
+						"x": 625,
+						"y": 1301,
+						"w": 204,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_common_streetlight_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 158,
+						"h": 270
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 158,
+						"h": 269
+					},
+					"frame": {
+						"x": 714,
+						"y": 1423,
+						"w": 158,
+						"h": 269
+					}
+				},
+				{
+					"filename": "deko_common_billboard_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 361
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 153,
+						"h": 361
+					},
+					"frame": {
+						"x": 874,
+						"y": 1391,
+						"w": 153,
+						"h": 361
+					}
+				},
+				{
+					"filename": "deko_common_billboard_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 363
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 151,
+						"h": 363
+					},
+					"frame": {
+						"x": 1029,
+						"y": 1391,
+						"w": 151,
+						"h": 363
+					}
+				},
+				{
+					"filename": "deko_common_deadtree_002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 228
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1461,
+						"w": 220,
+						"h": 228
+					}
+				},
+				{
+					"filename": "deko_common_bush_007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 146,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 146,
+						"h": 250
+					},
+					"frame": {
+						"x": 1425,
+						"y": 1209,
+						"w": 146,
+						"h": 250
+					}
+				},
+				{
+					"filename": "deko_common_deadtree_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 1404,
+						"y": 1461,
+						"w": 178,
+						"h": 184
+					}
+				},
+				{
+					"filename": "deko_common_indicator_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 98
+					},
+					"frame": {
+						"x": 1591,
+						"y": 618,
+						"w": 214,
+						"h": 98
+					}
+				},
+				{
+					"filename": "deko_common_item_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 158,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 158,
+						"h": 170
+					},
+					"frame": {
+						"x": 1310,
+						"y": 691,
+						"w": 158,
+						"h": 170
+					}
+				},
+				{
+					"filename": "deko_common_stones_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 92
+					},
+					"frame": {
+						"x": 1310,
+						"y": 863,
+						"w": 148,
+						"h": 92
+					}
+				},
+				{
+					"filename": "deko_common_bush_010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 120
+					},
+					"frame": {
+						"x": 1404,
+						"y": 1647,
+						"w": 198,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_common_bush_017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 150
+					},
+					"frame": {
+						"x": 1470,
+						"y": 718,
+						"w": 196,
+						"h": 150
+					}
+				},
+				{
+					"filename": "deko_common_bush_016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 160
+					},
+					"frame": {
+						"x": 1668,
+						"y": 718,
+						"w": 147,
+						"h": 160
+					}
+				},
+				{
+					"filename": "deko_common_vehicle_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 165
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 165
+					},
+					"frame": {
+						"x": 1495,
+						"y": 870,
+						"w": 152,
+						"h": 165
+					}
+				},
+				{
+					"filename": "deko_common_vehicle_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 187,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 185,
+						"h": 120
+					},
+					"frame": {
+						"x": 1495,
+						"y": 1037,
+						"w": 185,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_common_bush_014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 181,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 181,
+						"h": 120
+					},
+					"frame": {
+						"x": 1649,
+						"y": 880,
+						"w": 181,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_common_bush_011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 159,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 159,
+						"h": 120
+					},
+					"frame": {
+						"x": 1682,
+						"y": 1002,
+						"w": 159,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_common_bush_006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 87
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1691,
+						"w": 120,
+						"h": 87
+					}
+				},
+				{
+					"filename": "deko_common_bush_013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 120
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1159,
+						"w": 169,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_common_bush_012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 120
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1281,
+						"w": 164,
+						"h": 120
+					}
+				},
+				{
+					"filename": "deko_common_bush_004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 99
+					},
+					"frame": {
+						"x": 1584,
+						"y": 1403,
+						"w": 174,
+						"h": 99
+					}
+				},
+				{
+					"filename": "deko_common_bush_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 199,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 199,
+						"h": 94
+					},
+					"frame": {
+						"x": 1584,
+						"y": 1504,
+						"w": 199,
+						"h": 94
+					}
+				},
+				{
+					"filename": "deko_common_footpath_004-",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 75
+					},
+					"frame": {
+						"x": 714,
+						"y": 1694,
+						"w": 113,
+						"h": 75
+					}
+				},
+				{
+					"filename": "deko_common_indicator_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 90
+					},
+					"frame": {
+						"x": 1744,
+						"y": 1124,
+						"w": 74,
+						"h": 90
+					}
+				},
+				{
+					"filename": "deko_common_footpath_001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 76
+					},
+					"frame": {
+						"x": 913,
+						"y": 855,
+						"w": 46,
+						"h": 76
+					}
+				},
+				{
+					"filename": "deko_common_bush_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 65,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 55,
+						"h": 66
+					},
+					"frame": {
+						"x": 1304,
+						"y": 1691,
+						"w": 55,
+						"h": 66
+					}
+				},
+				{
+					"filename": "deko_common_bush_005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 59
+					},
+					"frame": {
+						"x": 1604,
+						"y": 1600,
+						"w": 108,
+						"h": 59
+					}
+				},
+				{
+					"filename": "deko_common_footpath_003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 24,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 24,
+						"h": 45
+					},
+					"frame": {
+						"x": 1820,
+						"y": 1124,
+						"w": 24,
+						"h": 45
+					}
+				},
+				{
+					"filename": "deko_common_footpath_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 65,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 64,
+						"h": 47
+					},
+					"frame": {
+						"x": 582,
+						"y": 403,
+						"w": 64,
+						"h": 47
+					}
+				},
+				{
+					"filename": "deko_common_arch_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 12,
+						"h": 10
+					},
+					"frame": {
+						"x": 379,
+						"y": 1381,
+						"w": 12,
+						"h": 10
+					}
+				},
+				{
+					"filename": "deko_common_arch_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 12,
+						"h": 10
+					},
+					"frame": {
+						"x": 379,
+						"y": 1381,
+						"w": 12,
+						"h": 10
+					}
+				},
+				{
+					"filename": "deko_common_church",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 12,
+						"h": 10
+					},
+					"frame": {
+						"x": 379,
+						"y": 1381,
+						"w": 12,
+						"h": 10
+					}
+				},
+				{
+					"filename": "deko_common_deadtree_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 12,
+						"h": 10
+					},
+					"frame": {
+						"x": 379,
+						"y": 1381,
+						"w": 12,
+						"h": 10
+					}
+				},
+				{
+					"filename": "deko_common_deadtree_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 12,
+						"h": 10
+					},
+					"frame": {
+						"x": 379,
+						"y": 1381,
+						"w": 12,
+						"h": 10
+					}
+				},
+				{
+					"filename": "deko_common_footpath_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 12,
+						"h": 10
+					},
+					"frame": {
+						"x": 379,
+						"y": 1381,
+						"w": 12,
+						"h": 10
+					}
+				},
+				{
+					"filename": "deko_common_house_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 12,
+						"h": 10
+					},
+					"frame": {
+						"x": 379,
+						"y": 1381,
+						"w": 12,
+						"h": 10
+					}
+				},
+				{
+					"filename": "deko_common_house_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 12,
+						"h": 10
+					},
+					"frame": {
+						"x": 379,
+						"y": 1381,
+						"w": 12,
+						"h": 10
+					}
+				},
+				{
+					"filename": "deko_old_house_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 12,
+						"h": 10
+					},
+					"frame": {
+						"x": 379,
+						"y": 1381,
+						"w": 12,
+						"h": 10
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fafe166c96243eb95c021aa84d34219e:8bdecf123e1d78eaa1216cdfc7c6cf68:5eeb847dea70ed19e710eb7708b18ef9$"
+	}
+}

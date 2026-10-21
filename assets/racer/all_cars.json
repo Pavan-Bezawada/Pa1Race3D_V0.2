@@ -1,0 +1,6047 @@
+{
+	"textures": [
+		{
+			"image": "all_cars.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2041,
+				"h": 1188
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shadow2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 42,
+						"w": 151,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 151,
+						"h": 59
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 62,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 150,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 238,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 326,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 414,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 502,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 590,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 678,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 766,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 854,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 942,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 1030,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "shadow1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 47,
+						"w": 139,
+						"h": 53
+					},
+					"frame": {
+						"x": 154,
+						"y": 1,
+						"w": 139,
+						"h": 53
+					}
+				},
+				{
+					"filename": "shadow6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 40,
+						"w": 104,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 1118,
+						"w": 104,
+						"h": 61
+					}
+				},
+				{
+					"filename": "greenCars/green_car_29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 295,
+						"y": 1,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "greenCars/green_car_35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 407,
+						"y": 1,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "yellow_car_29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 519,
+						"y": 1,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "yellow_car_35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 110,
+						"h": 86
+					},
+					"frame": {
+						"x": 631,
+						"y": 1,
+						"w": 110,
+						"h": 86
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 743,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 853,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 963,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1073,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1183,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1293,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1403,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1513,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1623,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1733,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1843,
+						"y": 1,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 16,
+						"w": 87,
+						"h": 78
+					},
+					"frame": {
+						"x": 1953,
+						"y": 1,
+						"w": 87,
+						"h": 78
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 16,
+						"w": 87,
+						"h": 78
+					},
+					"frame": {
+						"x": 1953,
+						"y": 81,
+						"w": 87,
+						"h": 78
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 62,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 149,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 236,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 323,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 410,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 497,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 584,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 671,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 758,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 845,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 932,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 113,
+						"y": 1019,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "shadow7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 64,
+						"w": 111,
+						"h": 36
+					},
+					"frame": {
+						"x": 743,
+						"y": 86,
+						"w": 111,
+						"h": 36
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 856,
+						"y": 86,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "greenCars/green_car_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 966,
+						"y": 86,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "greenCars/green_car_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1076,
+						"y": 86,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "yellow_car_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1186,
+						"y": 86,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "yellow_car_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 108,
+						"h": 83
+					},
+					"frame": {
+						"x": 1296,
+						"y": 86,
+						"w": 108,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 1406,
+						"y": 86,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 1510,
+						"y": 86,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 1614,
+						"y": 86,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 1718,
+						"y": 86,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 1822,
+						"y": 86,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 113,
+						"y": 1106,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 1406,
+						"y": 170,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 1515,
+						"y": 170,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 1624,
+						"y": 170,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 1733,
+						"y": 170,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1842,
+						"y": 170,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 1938,
+						"y": 161,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 1938,
+						"y": 245,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 212,
+						"y": 89,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 316,
+						"y": 89,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 212,
+						"y": 173,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 420,
+						"y": 89,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 212,
+						"y": 257,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 316,
+						"y": 173,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 524,
+						"y": 89,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 212,
+						"y": 341,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 316,
+						"y": 257,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 420,
+						"y": 173,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 628,
+						"y": 89,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 212,
+						"y": 425,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 316,
+						"y": 341,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 420,
+						"y": 257,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 524,
+						"y": 173,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 212,
+						"y": 509,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 316,
+						"y": 425,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "greenCars/green_car_15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 420,
+						"y": 341,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "greenCars/green_car_21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 524,
+						"y": 257,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "greenCars/green_car_22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 628,
+						"y": 173,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "greenCars/green_car_28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 212,
+						"y": 593,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "yellow_car_15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 316,
+						"y": 509,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "yellow_car_21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 420,
+						"y": 425,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "yellow_car_22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 524,
+						"y": 341,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "yellow_car_28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 102,
+						"h": 82
+					},
+					"frame": {
+						"x": 628,
+						"y": 257,
+						"w": 102,
+						"h": 82
+					}
+				},
+				{
+					"filename": "greenCars/green_car_30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 212,
+						"y": 677,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "greenCars/green_car_34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 212,
+						"y": 764,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "yellow_car_30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 212,
+						"y": 851,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "yellow_car_34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 9,
+						"w": 97,
+						"h": 85
+					},
+					"frame": {
+						"x": 212,
+						"y": 938,
+						"w": 97,
+						"h": 85
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 212,
+						"y": 1025,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 316,
+						"y": 593,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 311,
+						"y": 677,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 311,
+						"y": 762,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 311,
+						"y": 847,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 311,
+						"y": 932,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 420,
+						"y": 509,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 524,
+						"y": 425,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 628,
+						"y": 341,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 413,
+						"y": 593,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 408,
+						"y": 677,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 408,
+						"y": 762,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 408,
+						"y": 847,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 408,
+						"y": 932,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 517,
+						"y": 509,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 621,
+						"y": 425,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 510,
+						"y": 593,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 505,
+						"y": 677,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 505,
+						"y": 762,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 505,
+						"y": 847,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 505,
+						"y": 932,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 732,
+						"y": 124,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 732,
+						"y": 201,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 732,
+						"y": 278,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 841,
+						"y": 171,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 950,
+						"y": 171,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 841,
+						"y": 248,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "greenCars/green_car_8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 1059,
+						"y": 171,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "greenCars/green_car_14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 950,
+						"y": 248,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "yellow_car_8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 1168,
+						"y": 171,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "yellow_car_14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 107,
+						"h": 75
+					},
+					"frame": {
+						"x": 1059,
+						"y": 248,
+						"w": 107,
+						"h": 75
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 1277,
+						"y": 171,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 1168,
+						"y": 248,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 13,
+						"w": 88,
+						"h": 81
+					},
+					"frame": {
+						"x": 222,
+						"y": 1106,
+						"w": 88,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 1265,
+						"y": 255,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "shadow4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 62,
+						"w": 102,
+						"h": 39
+					},
+					"frame": {
+						"x": 725,
+						"y": 355,
+						"w": 102,
+						"h": 39
+					}
+				},
+				{
+					"filename": "greenCars/green_car_31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 730,
+						"y": 396,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "shadow3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 62,
+						"w": 101,
+						"h": 39
+					},
+					"frame": {
+						"x": 841,
+						"y": 325,
+						"w": 101,
+						"h": 39
+					}
+				},
+				{
+					"filename": "shadow5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 63,
+						"w": 100,
+						"h": 38
+					},
+					"frame": {
+						"x": 944,
+						"y": 325,
+						"w": 100,
+						"h": 38
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 1046,
+						"y": 325,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 1143,
+						"y": 332,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 1240,
+						"y": 339,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 730,
+						"y": 481,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 829,
+						"y": 366,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "greenCars/green_car_33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 827,
+						"y": 442,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 827,
+						"y": 527,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 311,
+						"y": 1017,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 408,
+						"y": 1017,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 505,
+						"y": 1017,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "yellow_car_31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 312,
+						"y": 1093,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "yellow_car_33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 11,
+						"w": 95,
+						"h": 83
+					},
+					"frame": {
+						"x": 409,
+						"y": 1093,
+						"w": 95,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 506,
+						"y": 1093,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 621,
+						"y": 502,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 718,
+						"y": 557,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 815,
+						"y": 603,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 614,
+						"y": 578,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 607,
+						"y": 654,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 602,
+						"y": 730,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 602,
+						"y": 815,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 602,
+						"y": 900,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 602,
+						"y": 985,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 602,
+						"y": 1070,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "greenCars/green_car_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 711,
+						"y": 641,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "greenCars/green_car_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 808,
+						"y": 687,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 1337,
+						"y": 339,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 1362,
+						"y": 255,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1457,
+						"y": 247,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1553,
+						"y": 247,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1649,
+						"y": 247,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "yellow_car_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 1745,
+						"y": 247,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1842,
+						"y": 255,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 92,
+						"h": 82
+					},
+					"frame": {
+						"x": 1432,
+						"y": 339,
+						"w": 92,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1526,
+						"y": 332,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "greenCars/green_car_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1622,
+						"y": 332,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "greenCars/green_car_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1718,
+						"y": 332,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "yellow_car_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 12,
+						"w": 95,
+						"h": 82
+					},
+					"frame": {
+						"x": 1814,
+						"y": 340,
+						"w": 95,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 1911,
+						"y": 340,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "greenCars/green_car_9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 1526,
+						"y": 417,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "greenCars/green_car_13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 1623,
+						"y": 417,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 92,
+						"h": 82
+					},
+					"frame": {
+						"x": 1720,
+						"y": 417,
+						"w": 92,
+						"h": 82
+					}
+				},
+				{
+					"filename": "yellow_car_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1814,
+						"y": 424,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "yellow_car_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 11,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 1910,
+						"y": 424,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "yellow_car_9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 944,
+						"y": 365,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "yellow_car_13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 95,
+						"h": 74
+					},
+					"frame": {
+						"x": 1041,
+						"y": 401,
+						"w": 95,
+						"h": 74
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 1138,
+						"y": 408,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 1233,
+						"y": 415,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 1328,
+						"y": 423,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 1423,
+						"y": 423,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 1518,
+						"y": 493,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 1613,
+						"y": 493,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 1708,
+						"y": 501,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 1803,
+						"y": 509,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 1898,
+						"y": 509,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 92,
+						"h": 82
+					},
+					"frame": {
+						"x": 912,
+						"y": 603,
+						"w": 92,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 905,
+						"y": 687,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 704,
+						"y": 725,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 698,
+						"y": 806,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 698,
+						"y": 890,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 698,
+						"y": 974,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 698,
+						"y": 1058,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 799,
+						"y": 771,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 894,
+						"y": 771,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "greenCars/green_car_16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 793,
+						"y": 852,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "greenCars/green_car_20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 793,
+						"y": 936,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "yellow_car_16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 888,
+						"y": 852,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "yellow_car_20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 12,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 793,
+						"y": 1020,
+						"w": 93,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 92,
+						"h": 82
+					},
+					"frame": {
+						"x": 888,
+						"y": 936,
+						"w": 92,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 92,
+						"h": 82
+					},
+					"frame": {
+						"x": 888,
+						"y": 1020,
+						"w": 92,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 793,
+						"y": 1104,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 888,
+						"y": 1104,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 989,
+						"y": 771,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 92,
+						"h": 82
+					},
+					"frame": {
+						"x": 1000,
+						"y": 687,
+						"w": 92,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 983,
+						"y": 854,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 13,
+						"w": 91,
+						"h": 81
+					},
+					"frame": {
+						"x": 1081,
+						"y": 771,
+						"w": 91,
+						"h": 81
+					}
+				},
+				{
+					"filename": "greenCars/green_car_23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 1078,
+						"y": 854,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "greenCars/green_car_27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 983,
+						"y": 935,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "greenCars/green_car_32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 92,
+						"h": 82
+					},
+					"frame": {
+						"x": 982,
+						"y": 1016,
+						"w": 92,
+						"h": 82
+					}
+				},
+				{
+					"filename": "yellow_car_23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 1078,
+						"y": 935,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "yellow_car_32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 92,
+						"h": 82
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1016,
+						"w": 92,
+						"h": 82
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 13,
+						"w": 91,
+						"h": 81
+					},
+					"frame": {
+						"x": 983,
+						"y": 1100,
+						"w": 91,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 13,
+						"w": 91,
+						"h": 81
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1100,
+						"w": 91,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1170,
+						"y": 1016,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1170,
+						"y": 1099,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 13,
+						"w": 88,
+						"h": 81
+					},
+					"frame": {
+						"x": 924,
+						"y": 442,
+						"w": 88,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 924,
+						"y": 525,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 13,
+						"w": 91,
+						"h": 81
+					},
+					"frame": {
+						"x": 1014,
+						"y": 477,
+						"w": 91,
+						"h": 81
+					}
+				},
+				{
+					"filename": "yellow_car_27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 15,
+						"w": 93,
+						"h": 79
+					},
+					"frame": {
+						"x": 1107,
+						"y": 489,
+						"w": 93,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 13,
+						"w": 91,
+						"h": 81
+					},
+					"frame": {
+						"x": 1014,
+						"y": 560,
+						"w": 91,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 13,
+						"w": 91,
+						"h": 81
+					},
+					"frame": {
+						"x": 1107,
+						"y": 570,
+						"w": 91,
+						"h": 81
+					}
+				},
+				{
+					"filename": "greenCars/green_car_18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 13,
+						"w": 91,
+						"h": 81
+					},
+					"frame": {
+						"x": 1202,
+						"y": 499,
+						"w": 91,
+						"h": 81
+					}
+				},
+				{
+					"filename": "yellow_car_18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 13,
+						"w": 91,
+						"h": 81
+					},
+					"frame": {
+						"x": 1200,
+						"y": 582,
+						"w": 91,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1295,
+						"y": 504,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1387,
+						"y": 504,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1293,
+						"y": 587,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1385,
+						"y": 587,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1094,
+						"y": 653,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1186,
+						"y": 665,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1278,
+						"y": 670,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1370,
+						"y": 670,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1174,
+						"y": 748,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "greenCars/green_car_17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1266,
+						"y": 753,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "greenCars/green_car_19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1358,
+						"y": 753,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "yellow_car_17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1174,
+						"y": 831,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "yellow_car_19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 13,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1173,
+						"y": 914,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1266,
+						"y": 836,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1356,
+						"y": 836,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1265,
+						"y": 917,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1355,
+						"y": 917,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 13,
+						"w": 88,
+						"h": 81
+					},
+					"frame": {
+						"x": 1262,
+						"y": 998,
+						"w": 88,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 13,
+						"w": 88,
+						"h": 81
+					},
+					"frame": {
+						"x": 1262,
+						"y": 1081,
+						"w": 88,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 13,
+						"w": 88,
+						"h": 81
+					},
+					"frame": {
+						"x": 1352,
+						"y": 998,
+						"w": 88,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 13,
+						"w": 88,
+						"h": 81
+					},
+					"frame": {
+						"x": 1352,
+						"y": 1081,
+						"w": 88,
+						"h": 81
+					}
+				},
+				{
+					"filename": "greenCars/green_car_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 13,
+						"w": 88,
+						"h": 81
+					},
+					"frame": {
+						"x": 1462,
+						"y": 670,
+						"w": 88,
+						"h": 81
+					}
+				},
+				{
+					"filename": "yellow_car_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 13,
+						"w": 88,
+						"h": 81
+					},
+					"frame": {
+						"x": 1450,
+						"y": 753,
+						"w": 88,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1446,
+						"y": 836,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1445,
+						"y": 917,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1442,
+						"y": 998,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1442,
+						"y": 1079,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 16,
+						"w": 87,
+						"h": 78
+					},
+					"frame": {
+						"x": 1477,
+						"y": 590,
+						"w": 87,
+						"h": 78
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1566,
+						"y": 577,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1656,
+						"y": 582,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1566,
+						"y": 658,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1656,
+						"y": 663,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1746,
+						"y": 590,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1746,
+						"y": 671,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1836,
+						"y": 593,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1836,
+						"y": 674,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "greenCars/green_car_24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1926,
+						"y": 593,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1926,
+						"y": 674,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1552,
+						"y": 730,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1642,
+						"y": 735,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1732,
+						"y": 743,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1822,
+						"y": 746,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1912,
+						"y": 746,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1540,
+						"y": 802,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "greenCars/green_car_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1630,
+						"y": 807,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "greenCars/green_car_12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1720,
+						"y": 815,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "greenCars/green_car_26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1810,
+						"y": 818,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "yellow_car_24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1900,
+						"y": 818,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "yellow_car_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1536,
+						"y": 874,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "yellow_car_12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 1626,
+						"y": 879,
+						"w": 88,
+						"h": 70
+					}
+				},
+				{
+					"filename": "yellow_car_26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 15,
+						"w": 88,
+						"h": 79
+					},
+					"frame": {
+						"x": 1716,
+						"y": 887,
+						"w": 88,
+						"h": 79
+					}
+				},
+				{
+					"filename": "BlueCars/blue_car_11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 87,
+						"h": 70
+					},
+					"frame": {
+						"x": 1806,
+						"y": 899,
+						"w": 87,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/grey_car_11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 87,
+						"h": 70
+					},
+					"frame": {
+						"x": 1895,
+						"y": 899,
+						"w": 87,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/orange_car_11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 87,
+						"h": 70
+					},
+					"frame": {
+						"x": 1535,
+						"y": 946,
+						"w": 87,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 16,
+						"w": 87,
+						"h": 78
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1018,
+						"w": 87,
+						"h": 78
+					}
+				},
+				{
+					"filename": "BlueCars/purple_car_11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 87,
+						"h": 70
+					},
+					"frame": {
+						"x": 1624,
+						"y": 951,
+						"w": 87,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 16,
+						"w": 87,
+						"h": 78
+					},
+					"frame": {
+						"x": 1621,
+						"y": 1023,
+						"w": 87,
+						"h": 78
+					}
+				},
+				{
+					"filename": "BlueCars/red_car_11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 87,
+						"h": 70
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1098,
+						"w": 87,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 87,
+						"h": 70
+					},
+					"frame": {
+						"x": 1621,
+						"y": 1103,
+						"w": 87,
+						"h": 70
+					}
+				},
+				{
+					"filename": "BlueCars/teal_car_25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 16,
+						"w": 87,
+						"h": 78
+					},
+					"frame": {
+						"x": 1713,
+						"y": 968,
+						"w": 87,
+						"h": 78
+					}
+				},
+				{
+					"filename": "greenCars/green_car_25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 16,
+						"w": 87,
+						"h": 78
+					},
+					"frame": {
+						"x": 1710,
+						"y": 1048,
+						"w": 87,
+						"h": 78
+					}
+				},
+				{
+					"filename": "yellow_car_25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 16,
+						"w": 87,
+						"h": 78
+					},
+					"frame": {
+						"x": 1802,
+						"y": 971,
+						"w": 87,
+						"h": 78
+					}
+				},
+				{
+					"filename": "greenCars/green_car_11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 87,
+						"h": 70
+					},
+					"frame": {
+						"x": 1891,
+						"y": 971,
+						"w": 87,
+						"h": 70
+					}
+				},
+				{
+					"filename": "yellow_car_11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 24,
+						"w": 87,
+						"h": 70
+					},
+					"frame": {
+						"x": 1799,
+						"y": 1051,
+						"w": 87,
+						"h": 70
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6f5122599a2641580f04d9456d326945:02870af7983973bea299122d1e30ac67:21405a847ba0ee1c4165764f0b00afc9$"
+	}
+}
